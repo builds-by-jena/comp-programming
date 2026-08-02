@@ -96,3 +96,4 @@ No
 | 14 | 78076316 | 2026-08-02 18:02:35 | ❌ CE | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076316_Attempt_14_CE.cpp`](./78076316_Attempt_14_CE.cpp) |
 | 15 | 78076335 | 2026-08-02 18:03:23 | ❌ RE | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076335_Attempt_15_RTE.cpp`](./78076335_Attempt_15_RTE.cpp) |
 | 16 | 78076556 | 2026-08-02 18:14:47 | ❌ CE | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076556_Attempt_16_CE.cpp`](./78076556_Attempt_16_CE.cpp) |
+| 17 | 78076575 | 2026-08-02 18:15:57 | ❌ AC | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076575_Attempt_17_AC.cpp`](./78076575_Attempt_17_AC.cpp) |
