@@ -80,12 +80,14 @@ No
 ### 📊 Submission History
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 78075155 | 2026-08-02 17:11:01 | ❌ 0 | 156 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075155_Attempt_1_0.cpp`](./78075155_Attempt_1_0.cpp) |
-| 2 | 78075433 | 2026-08-02 17:24:09 | ❌ 0 | 163 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075433_Attempt_2_0.cpp`](./78075433_Attempt_2_0.cpp) |
-| 3 | 78075513 | 2026-08-02 17:28:14 | ❌ 0 | 164 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075513_Attempt_3_0.cpp`](./78075513_Attempt_3_0.cpp) |
-| 4 | 78075542 | 2026-08-02 17:29:19 | ❌ 0 | 195 Byte | RE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075542_Attempt_4_0.cpp`](./78075542_Attempt_4_0.cpp) |
-| 5 | 78075984 | 2026-08-02 17:48:09 | ❌ 0 | 252 Byte | WA | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075984_Attempt_5_0.cpp`](./78075984_Attempt_5_0.cpp) |
-| 6 | 78076021 | 2026-08-02 17:49:32 | ❌ 0 | 147 Byte | WA | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076021_Attempt_6_0.cpp`](./78076021_Attempt_6_0.cpp) |
-| 7 | 78076038 | 2026-08-02 17:50:33 | ❌ 0 | 165 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076038_Attempt_7_0.cpp`](./78076038_Attempt_7_0.cpp) |
-| 8 | 78076056 | 2026-08-02 17:51:21 | ❌ 100 | 301 Byte | AC | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076056_Attempt_8_100.cpp`](./78076056_Attempt_8_100.cpp) |
-| 9 | 78076183 | 2026-08-02 17:56:46 | ❌ 0 | 308 Byte | WJ | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076183_Attempt_9_0.cpp`](./78076183_Attempt_9_0.cpp) |
+| 1 | 78075155 | 2026-08-02 17:11:01 | ❌ 0 | CE | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075155_Attempt_1_WA.cpp`](./78075155_Attempt_1_WA.cpp) |
+| 2 | 78075433 | 2026-08-02 17:24:09 | ❌ 0 | CE | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075433_Attempt_2_WA.cpp`](./78075433_Attempt_2_WA.cpp) |
+| 3 | 78075513 | 2026-08-02 17:28:14 | ❌ 0 | CE | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075513_Attempt_3_WA.cpp`](./78075513_Attempt_3_WA.cpp) |
+| 4 | 78075542 | 2026-08-02 17:29:19 | ❌ 0 | RE | 104 ms | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075542_Attempt_4_WA.cpp`](./78075542_Attempt_4_WA.cpp) |
+| 5 | 78075984 | 2026-08-02 17:48:09 | ❌ 0 | WA | 315 ms | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075984_Attempt_5_WA.cpp`](./78075984_Attempt_5_WA.cpp) |
+| 6 | 78076021 | 2026-08-02 17:49:32 | ❌ 0 | WA | 0 ms | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076021_Attempt_6_WA.cpp`](./78076021_Attempt_6_WA.cpp) |
+| 7 | 78076038 | 2026-08-02 17:50:33 | ❌ 0 | CE | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076038_Attempt_7_WA.cpp`](./78076038_Attempt_7_WA.cpp) |
+| 8 | 78076056 | 2026-08-02 17:51:21 | ❌ 100 | AC | 0 ms | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076056_Attempt_8_WA.cpp`](./78076056_Attempt_8_WA.cpp) |
+| 9 | 78076183 | 2026-08-02 17:56:46 | ❌ 0 | CE | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076183_Attempt_9_WA.cpp`](./78076183_Attempt_9_WA.cpp) |
+| 10 | 78076202 | 2026-08-02 17:57:27 | ❌ 0 | RE | 100 ms | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076202_Attempt_10_WA.cpp`](./78076202_Attempt_10_WA.cpp) |
+| 11 | 78076209 | 2026-08-02 17:57:54 | ❌ 0 | WJ | Detail | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78076209_Attempt_11_WA.cpp`](./78076209_Attempt_11_WA.cpp) |
