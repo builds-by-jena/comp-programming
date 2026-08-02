@@ -54,3 +54,4 @@ p43s
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 385217702 | Aug/02/2026 07:17UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385217702_Attempt_1_CE.cpp`](./385217702_Attempt_1_CE.cpp) |
 | 2 | 385217800 | Aug/02/2026 07:20UTC+5.5 | ❌ Runtime error on test 1 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385217800_Attempt_2_RTE.cpp`](./385217800_Attempt_2_RTE.cpp) |
+| 5 | 385217853 | Aug/02/2026 07:21UTC+5.5 | ✅ Accepted | 31 ms | 100 KB | C++20 (GCC 13-64) | [`385217853_Attempt_5_AC.cpp`](./385217853_Attempt_5_AC.cpp) |
