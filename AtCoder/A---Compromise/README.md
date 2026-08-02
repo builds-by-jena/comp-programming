@@ -82,4 +82,5 @@ No
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78075155 | 2026-08-02 17:11:01 | ❌ 0 | 156 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075155_Attempt_1_ATTEMPT.cpp`](./78075155_Attempt_1_ATTEMPT.cpp) |
 | 2 | 78075433 | 2026-08-02 17:24:09 | ❌ 0 | 163 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075433_Attempt_2_ATTEMPT.cpp`](./78075433_Attempt_2_ATTEMPT.cpp) |
-| 3 | 78075513 | 2026-08-02 17:28:14 | ❌ 0 | 164 Byte | WJ | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075513_Attempt_3_ATTEMPT.cpp`](./78075513_Attempt_3_ATTEMPT.cpp) |
+| 3 | 78075513 | 2026-08-02 17:28:14 | ❌ 0 | 164 Byte | CE | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075513_Attempt_3_ATTEMPT.cpp`](./78075513_Attempt_3_ATTEMPT.cpp) |
+| 4 | 78075542 | 2026-08-02 17:29:19 | ❌ 0 | 195 Byte | WJ | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78075542_Attempt_4_ATTEMPT.cpp`](./78075542_Attempt_4_ATTEMPT.cpp) |
