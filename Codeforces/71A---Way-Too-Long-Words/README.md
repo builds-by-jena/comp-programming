@@ -54,3 +54,4 @@ p43s
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2 | Aug/02/2026 06:20UTC+5.5 | ❌ Time limit exceeded on test 1 | 1000 ms | 0 KB | C++20 (GCC 13-64) | [`Attempt_2_TLE.cpp`](./Attempt_2_TLE.cpp) |
 | 3 | Aug/02/2026 06:29UTC+5.5 | ✅ Accepted | 31 ms | 100 KB | C++20 (GCC 13-64) | [`Attempt_3_AC.cpp`](./Attempt_3_AC.cpp) |
+| 4 | Aug/02/2026 06:33UTC+5.5 | ✅ Accepted | 46 ms | 100 KB | C++20 (GCC 13-64) | [`Attempt_4_AC.cpp`](./Attempt_4_AC.cpp) |
