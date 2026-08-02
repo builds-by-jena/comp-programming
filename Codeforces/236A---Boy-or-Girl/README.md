@@ -67,3 +67,4 @@ For the first example. There are 6 distinct characters in "wjmzbmr". These chara
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 385218180 | Aug/02/2026 07:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218180_Attempt_1_CE.cpp`](./385218180_Attempt_1_CE.cpp) |
+| 2 | 385218195 | Aug/02/2026 07:32UTC+5.5 | ❌ Runtime error on test 1 | 30 ms | 0 KB | C++20 (GCC 13-64) | [`385218195_Attempt_2_RTE.cpp`](./385218195_Attempt_2_RTE.cpp) |
