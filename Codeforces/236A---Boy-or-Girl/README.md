@@ -72,4 +72,6 @@ For the first example. There are 6 distinct characters in "wjmzbmr". These chara
 | 4 | 385218680 | Aug/02/2026 07:46UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218680_Attempt_4_CE.cpp`](./385218680_Attempt_4_CE.cpp) |
 | 5 | 385218710 | Aug/02/2026 07:47UTC+5.5 | ❌ Time limit exceeded on test 1 | 1000 ms | 0 KB | C++20 (GCC 13-64) | [`385218710_Attempt_5_TLE.cpp`](./385218710_Attempt_5_TLE.cpp) |
 | 6 | 385218747 | Aug/02/2026 07:48UTC+5.5 | ✅ Accepted | 62 ms | 100 KB | C++20 (GCC 13-64) | [`385218747_Attempt_6_AC.cpp`](./385218747_Attempt_6_AC.cpp) |
-| 7 | 385218758 | Aug/02/2026 07:48UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385218758_Attempt_7_AC.cpp`](./385218758_Attempt_7_AC.cpp) |
+| 7 | 385218758 | Aug/02/2026 07:48UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385218758_Attempt_7_AC.cpp`](./385218758_Attempt_7_AC.cpp) |
+| 8 | 385218766 | Aug/02/2026 07:48UTC+5.5 | ✅ Accepted | 62 ms | 100 KB | C++20 (GCC 13-64) | [`385218766_Attempt_8_AC.cpp`](./385218766_Attempt_8_AC.cpp) |
+| 9 | 385218796 | Aug/02/2026 07:49UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385218796_Attempt_9_AC.cpp`](./385218796_Attempt_9_AC.cpp) |
