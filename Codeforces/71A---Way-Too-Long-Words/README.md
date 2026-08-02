@@ -57,3 +57,4 @@ p43s
 | 4 | Aug/02/2026 06:33UTC+5.5 | ✅ Accepted | 46 ms | 100 KB | C++20 (GCC 13-64) | [`Attempt_4_AC.cpp`](./Attempt_4_AC.cpp) |
 | 5 | Aug/02/2026 06:39UTC+5.5 | ❌ Wrong answer on test 2 | 0 ms | 0 KB | C++20 (GCC 13-64) | [`Attempt_5_WA.cpp`](./Attempt_5_WA.cpp) |
 | 6 | 385216932 | Aug/02/2026 06:52UTC+5.5 | ❌ Wrong answer on test 2 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385216932_Attempt_6_WA.cpp`](./385216932_Attempt_6_WA.cpp) |
+| 7 | 385217038 | Aug/02/2026 06:56UTC+5.5 | ❌ Wrong answer on test 2 | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385217038_Attempt_7_WA.cpp`](./385217038_Attempt_7_WA.cpp) |
