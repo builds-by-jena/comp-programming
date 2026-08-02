@@ -69,4 +69,5 @@ For the first example. There are 6 distinct characters in "wjmzbmr". These chara
 | 1 | 385218180 | Aug/02/2026 07:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218180_Attempt_1_CE.cpp`](./385218180_Attempt_1_CE.cpp) |
 | 2 | 385218195 | Aug/02/2026 07:32UTC+5.5 | ❌ Runtime error on test 1 | 30 ms | 0 KB | C++20 (GCC 13-64) | [`385218195_Attempt_2_RTE.cpp`](./385218195_Attempt_2_RTE.cpp) |
 | 3 | 385218211 | Aug/02/2026 07:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218211_Attempt_3_CE.cpp`](./385218211_Attempt_3_CE.cpp) |
-| 4 | 385218680 | Aug/02/2026 07:46UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218680_Attempt_4_CE.cpp`](./385218680_Attempt_4_CE.cpp) |
+| 4 | 385218680 | Aug/02/2026 07:46UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385218680_Attempt_4_CE.cpp`](./385218680_Attempt_4_CE.cpp) |
+| 5 | 385218710 | Aug/02/2026 07:47UTC+5.5 | ❌ Time limit exceeded on test 1 | 1000 ms | 0 KB | C++20 (GCC 13-64) | [`385218710_Attempt_5_TLE.cpp`](./385218710_Attempt_5_TLE.cpp) |
