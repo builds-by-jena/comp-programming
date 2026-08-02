@@ -53,3 +53,4 @@ p43s
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 385217165 | Aug/02/2026 07:00UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385217165_Attempt_1_CE.cpp`](./385217165_Attempt_1_CE.cpp) |
+| 2 | 385217185 | Aug/02/2026 07:01UTC+5.5 | ❌ Runtime error on test 1 | 0 ms | 0 KB | C++20 (GCC 13-64) | [`385217185_Attempt_2_RTE.cpp`](./385217185_Attempt_2_RTE.cpp) |
