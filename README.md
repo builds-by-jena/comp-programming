@@ -4,7 +4,7 @@ Automated syncing across platforms powered by **CP-GitSync**.
 
 ## 📊 Performance Summary
 - **Total Unique Problems Solved:** 1
-- **Total Submissions Tracked:** 23
+- **Total Submissions Tracked:** 24
 
 ### 📁 Platform Directory
 | Platform | Folder Path | Solved / Total Attempts |
@@ -12,7 +12,7 @@ Automated syncing across platforms powered by **CP-GitSync**.
 | **GUVI CodeKata** | [`/CodeKata`](./CodeKata) | 0 / 0 |
 | **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | 0 / 0 |
 | **LeetCode** | [`/LeetCode`](./LeetCode) | 0 / 0 |
-| **Codeforces** | [`/Codeforces`](./Codeforces) | 1 / 23 |
+| **Codeforces** | [`/Codeforces`](./Codeforces) | 1 / 24 |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | 0 / 0 |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | 0 / 0 |
 | **HackerEarth** | [`/HackerEarth`](./HackerEarth) | 0 / 0 |
