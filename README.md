@@ -3,16 +3,16 @@
 Automated syncing across platforms powered by **CP-GitSync**.
 
 ## 📊 Performance Summary
-- **Total Unique Problems Solved:** 2
-- **Total Submissions Tracked:** 33
+- **Total Unique Problems Solved:** 0
+- **Total Code Solution Files Tracked:** 1
 
 ### 📁 Platform Directory
-| Platform | Folder Path | Solved / Total Attempts |
+| Platform | Folder Path | Unique Solved / Total Files Tracked |
 | :--- | :--- | :---: |
-| **GUVI CodeKata** | [`/CodeKata`](./CodeKata) | 0 / 0 |
+| **CodeKata** | [`/CodeKata`](./CodeKata) | 0 / 0 |
 | **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | 0 / 0 |
 | **LeetCode** | [`/LeetCode`](./LeetCode) | 0 / 0 |
-| **Codeforces** | [`/Codeforces`](./Codeforces) | 2 / 33 |
+| **Codeforces** | [`/Codeforces`](./Codeforces) | 0 / 1 |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | 0 / 0 |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | 0 / 0 |
 | **HackerEarth** | [`/HackerEarth`](./HackerEarth) | 0 / 0 |
