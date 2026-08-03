@@ -91,3 +91,4 @@ N/A
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092365556 | 8/3/2026, 2:26:55 PM | ✅ Accepted | 189 ms | 19.8 MB | Python3 | [`2092365556_Attempt_1_AC.py`](./2092365556_Attempt_1_AC.py) |
 | 2 | 2092366457 | 8/3/2026, 2:27:38 PM | ❌ Runtime Error | N/A | N/A | Python3 | [`2092366457_Attempt_2_RTE.py`](./2092366457_Attempt_2_RTE.py) |
+| 4 | 2092368196 | 8/3/2026, 2:29:03 PM | ❌ Runtime Error | N/A | N/A | Java | [`2092368196_Attempt_4_RTE.java`](./2092368196_Attempt_4_RTE.java) |
