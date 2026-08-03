@@ -61,3 +61,4 @@ Sample Output 0
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 5:17:36 AM | ❌ Wrong Answer | C++ | [`hr_1785800855292_Attempt_1_WA.cpp`](./hr_1785800855292_Attempt_1_WA.cpp) |
+| 2 | 8/4/2026, 5:17:49 AM | ❌ Wrong Answer | C++ | [`hr_1785800867982_Attempt_2_WA.cpp`](./hr_1785800867982_Attempt_2_WA.cpp) |
