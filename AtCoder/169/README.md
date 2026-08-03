@@ -89,3 +89,4 @@ No
 | 1 | 78097505 | 2026-08-03 17:40:01 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097505_Attempt_1_AC.java`](./78097505_Attempt_1_AC.java) |
 | 2 | 78097526 | 2026-08-03 17:40:55 | ❌ RE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097526_Attempt_2_RTE.java`](./78097526_Attempt_2_RTE.java) |
 | 3 | 78097625 | 2026-08-03 17:45:02 | ❌ AC | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78097625_Attempt_3_AC.cpp`](./78097625_Attempt_3_AC.cpp) |
+| 4 | 78097635 | 2026-08-03 17:45:38 | ❌ RE | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78097635_Attempt_4_RTE.cpp`](./78097635_Attempt_4_RTE.cpp) |
