@@ -163,3 +163,4 @@ i
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78097794 | 2026-08-03 17:51:37 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097794_Attempt_1_AC.java`](./78097794_Attempt_1_AC.java) |
+| 2 | 78097874 | 2026-08-03 17:54:17 | ❌ CE | 0 ms | 0 KB | Python (CPython 3.13.7) | [`78097874_Attempt_2_CE.py`](./78097874_Attempt_2_CE.py) |
