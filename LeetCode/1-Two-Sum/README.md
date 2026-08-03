@@ -102,3 +102,4 @@ N/A
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092295739 | 8/3/2026, 1:17:11 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092295739_Attempt_1_RTE.py`](./2092295739_Attempt_1_RTE.py) |
+| 2 | 2092295807 | 8/3/2026, 1:17:16 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092295807_Attempt_2_RTE.py`](./2092295807_Attempt_2_RTE.py) |
