@@ -90,3 +90,4 @@ N/A
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092365556 | 8/3/2026, 2:26:55 PM | ✅ Accepted | 189 ms | 19.8 MB | Python3 | [`2092365556_Attempt_1_AC.py`](./2092365556_Attempt_1_AC.py) |
+| 2 | 2092366457 | 8/3/2026, 2:27:38 PM | ❌ Runtime Error | N/A | N/A | Python3 | [`2092366457_Attempt_2_RTE.py`](./2092366457_Attempt_2_RTE.py) |
