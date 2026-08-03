@@ -105,3 +105,4 @@ N/A
 | 2 | 2092341476 | 8/3/2026, 2:06:24 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092341476_Attempt_2_RTE.py`](./2092341476_Attempt_2_RTE.py) |
 | 5 | 2092342627 | 8/3/2026, 2:07:28 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092342627_Attempt_5_RTE.py`](./2092342627_Attempt_5_RTE.py) |
 | 6 | 2092347520 | 8/3/2026, 2:11:52 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092347520_Attempt_6_RTE.py`](./2092347520_Attempt_6_RTE.py) |
+| 8 | 2092349237 | 8/3/2026, 2:13:23 PM | ✅ Accepted | 0 ms | 13 MB | Python | [`2092349237_Attempt_8_AC.py`](./2092349237_Attempt_8_AC.py) |
