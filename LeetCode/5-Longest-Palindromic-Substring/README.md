@@ -76,3 +76,8 @@ N/A
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/3/2026, 2:44:22 PM | ✅ Accepted | Python | [`2092386947_Attempt_1_AC.py`](./2092386947_Attempt_1_AC.py) |
 | 2 | 8/3/2026, 2:44:22 PM | ✅ Accepted | Java | [`2092387291_Attempt_2_AC.java`](./2092387291_Attempt_2_AC.java) |
+| 3 | 8/3/2026, 2:51:43 PM | ❌ Runtime Error | Python | [`2092387592_Attempt_3_RTE.py`](./2092387592_Attempt_3_RTE.py) |
+| 4 | 8/3/2026, 2:51:43 PM | ❌ Runtime Error | Python | [`2092387744_Attempt_4_RTE.py`](./2092387744_Attempt_4_RTE.py) |
+| 5 | 8/3/2026, 2:51:43 PM | ❌ Compile Error | C++ | [`2092387979_Attempt_5_CE.cpp`](./2092387979_Attempt_5_CE.cpp) |
+| 6 | 8/3/2026, 2:51:43 PM | ✅ Accepted | C++ | [`2092388200_Attempt_6_AC.cpp`](./2092388200_Attempt_6_AC.cpp) |
+| 7 | 8/3/2026, 2:51:43 PM | ✅ Accepted | C++ | [`2092396449_Attempt_7_AC.cpp`](./2092396449_Attempt_7_AC.cpp) |
