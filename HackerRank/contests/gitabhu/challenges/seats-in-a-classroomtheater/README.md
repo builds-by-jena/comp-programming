@@ -64,3 +64,4 @@ Sample Output 0
 | 2 | 8/4/2026, 5:17:49 AM | ❌ Wrong Answer | C++ | [`hr_1785800867982_Attempt_2_WA.cpp`](./hr_1785800867982_Attempt_2_WA.cpp) |
 | 3 | 8/4/2026, 5:17:53 AM | ❌ Wrong Answer | C++ | [`hr_1785800867983_Attempt_3_WA.cpp`](./hr_1785800867983_Attempt_3_WA.cpp) |
 | 4 | 8/4/2026, 5:18:48 AM | ✅ Accepted | C++ | [`hr_1785800927184_Attempt_4_AC.cpp`](./hr_1785800927184_Attempt_4_AC.cpp) |
+| 5 | 8/4/2026, 5:18:52 AM | ✅ Accepted | C++ | [`hr_1785800927185_Attempt_5_AC.cpp`](./hr_1785800927185_Attempt_5_AC.cpp) |
