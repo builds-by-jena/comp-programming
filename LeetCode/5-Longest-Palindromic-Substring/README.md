@@ -74,4 +74,5 @@ N/A
 ### 📊 Submission History
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | 8/3/2026, 2:44:07 PM | ✅ Accepted | Python | [`2092386947_Attempt_1_AC.py`](./2092386947_Attempt_1_AC.py) |
+| 1 | 8/3/2026, 2:44:22 PM | ✅ Accepted | Python | [`2092386947_Attempt_1_AC.py`](./2092386947_Attempt_1_AC.py) |
+| 2 | 8/3/2026, 2:44:22 PM | ✅ Accepted | Java | [`2092387291_Attempt_2_AC.java`](./2092387291_Attempt_2_AC.java) |
