@@ -1,0 +1,66 @@
+# [59A---Word]
+
+**Platform:** Codeforces
+**Limits:** 2 seconds | 256 megabytes
+**Link:** [Problem Statement](https://codeforces.com/problemset/problem/59/A)
+
+---
+
+### 📝 Problem Statement
+Vasya is very upset that many people on the Net mix uppercase and lowercase letters in one word. That's why he decided to invent an extension for his favorite browser that would change the letters' register in every word so that it either only consisted of lowercase letters or, vice versa, only of uppercase ones. At that as little as possible letters should be changed in the word. For example, the word HoUse must be replaced with house, and the word ViP — with VIP. If a word contains an equal number of uppercase and lowercase letters, you should replace all the letters with lowercase ones. For example, maTRIx should be replaced by matrix. Your task is to use the given method on one given word.
+
+---
+
+### 📥 Input / Output Specification
+**Input:** Input
+
+The first line contains a word s — it consists of uppercase and lowercase Latin letters and possesses the length from 1 to 100.
+**Output:** Output
+
+Print the corrected word s. If the given word s has strictly more uppercase letters, make the word written in the uppercase register, otherwise - in the lowercase one.
+
+---
+
+### 🧪 Sample Tests
+
+#### Example 1
+**Input:**
+```
+HoUse
+```
+**Output:**
+```
+house
+```
+
+
+#### Example 2
+**Input:**
+```
+ViP
+```
+**Output:**
+```
+VIP
+```
+
+
+#### Example 3
+**Input:**
+```
+maTRIx
+```
+**Output:**
+```
+matrix
+```
+
+
+
+
+---
+
+### 📊 Submission History
+| Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 385352191 | Aug/03/2026 11:18UTC+5.5 | ✅ Accepted | 156 ms | 0 KB | PyPy 3-64 | [`385352191_Attempt_1_AC.py`](./385352191_Attempt_1_AC.py) |
