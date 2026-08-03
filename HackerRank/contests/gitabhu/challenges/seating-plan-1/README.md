@@ -50,3 +50,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/3/2026, 11:11:12 PM | ❌ Wrong Answer | Python | [`hr_1785778870373_Attempt_1_WA.py`](./hr_1785778870373_Attempt_1_WA.py) |
+| 2 | 8/3/2026, 11:17:48 PM | ❌ Wrong Answer | Python | [`hr_1785779267067_Attempt_2_WA.py`](./hr_1785779267067_Attempt_2_WA.py) |
