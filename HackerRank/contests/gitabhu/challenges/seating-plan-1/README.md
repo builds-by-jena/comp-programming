@@ -62,3 +62,4 @@ AS 10
 | 1 | 8/3/2026, 11:11:12 PM | ❌ Wrong Answer | Python | [`hr_1785778870373_Attempt_1_WA.py`](./hr_1785778870373_Attempt_1_WA.py) |
 | 2 | 8/3/2026, 11:17:48 PM | ❌ Wrong Answer | Python | [`hr_1785779267067_Attempt_2_WA.py`](./hr_1785779267067_Attempt_2_WA.py) |
 | 3 | 8/3/2026, 11:23:30 PM | ❌ Wrong Answer | Python | [`hr_1785779609408_Attempt_3_WA.py`](./hr_1785779609408_Attempt_3_WA.py) |
+| 4 | 8/3/2026, 11:25:08 PM | ✅ Accepted | Python | [`hr_1785779706445_Attempt_4_AC.py`](./hr_1785779706445_Attempt_4_AC.py) |
