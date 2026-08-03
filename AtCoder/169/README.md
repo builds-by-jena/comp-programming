@@ -87,3 +87,4 @@ No
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78097505 | 2026-08-03 17:40:01 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097505_Attempt_1_AC.java`](./78097505_Attempt_1_AC.java) |
+| 2 | 78097526 | 2026-08-03 17:40:55 | ❌ RE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097526_Attempt_2_RTE.java`](./78097526_Attempt_2_RTE.java) |
