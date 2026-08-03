@@ -81,3 +81,5 @@ N/A
 | 5 | 8/3/2026, 2:51:43 PM | ❌ Compile Error | C++ | [`2092387979_Attempt_5_CE.cpp`](./2092387979_Attempt_5_CE.cpp) |
 | 6 | 8/3/2026, 2:51:43 PM | ✅ Accepted | C++ | [`2092388200_Attempt_6_AC.cpp`](./2092388200_Attempt_6_AC.cpp) |
 | 7 | 8/3/2026, 2:51:43 PM | ✅ Accepted | C++ | [`2092396449_Attempt_7_AC.cpp`](./2092396449_Attempt_7_AC.cpp) |
+| 8 | 8/3/2026, 2:52:13 PM | ❌ Compile Error | C++ | [`2092396714_Attempt_8_CE.cpp`](./2092396714_Attempt_8_CE.cpp) |
+| 9 | 8/3/2026, 2:52:13 PM | ✅ Accepted | Java | [`2092397084_Attempt_9_AC.java`](./2092397084_Attempt_9_AC.java) |
