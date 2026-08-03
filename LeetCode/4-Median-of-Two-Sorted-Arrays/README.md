@@ -81,3 +81,4 @@ N/A
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092284402 | 8/3/2026, 1:03:40 PM | ✅ Accepted | N/A | N/A | Java | [`2092284402_Attempt_1_AC.java`](./2092284402_Attempt_1_AC.java) |
+| 2 | 2092284785 | 8/3/2026, 1:04:05 PM | ✅ Accepted | N/A | N/A | Java | [`2092284785_Attempt_2_AC.java`](./2092284785_Attempt_2_AC.java) |
