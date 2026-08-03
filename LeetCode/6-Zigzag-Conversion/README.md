@@ -120,3 +120,4 @@ N/A
 | 2 | 8/3/2026, 6:00:05 PM | ❌ Compile Error | Java | [`2092590866_Attempt_2_CE.java`](./2092590866_Attempt_2_CE.java) |
 | 3 | 8/3/2026, 6:00:40 PM | ❌ Runtime Error | Python | [`2092591494_Attempt_3_RTE.py`](./2092591494_Attempt_3_RTE.py) |
 | 4 | 8/3/2026, 6:00:56 PM | ✅ Accepted | C++ | [`2092591736_Attempt_4_AC.cpp`](./2092591736_Attempt_4_AC.cpp) |
+| 5 | 8/3/2026, 6:01:10 PM | ❌ Runtime Error | Java | [`2092591947_Attempt_5_RTE.java`](./2092591947_Attempt_5_RTE.java) |
