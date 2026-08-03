@@ -118,3 +118,4 @@ N/A
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/3/2026, 5:59:51 PM | ✅ Accepted | Java | [`2092590656_Attempt_1_AC.java`](./2092590656_Attempt_1_AC.java) |
 | 2 | 8/3/2026, 6:00:05 PM | ❌ Compile Error | Java | [`2092590866_Attempt_2_CE.java`](./2092590866_Attempt_2_CE.java) |
+| 3 | 8/3/2026, 6:00:40 PM | ❌ Runtime Error | Python | [`2092591494_Attempt_3_RTE.py`](./2092591494_Attempt_3_RTE.py) |
