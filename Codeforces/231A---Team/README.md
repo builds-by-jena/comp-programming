@@ -67,3 +67,4 @@ In the second sample the friends will only implement the second problem, as Vasy
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 385397429 | Aug/03/2026 17:23UTC+5.5 | ✅ Accepted | 500 ms | 1000 KB | Java 21 | [`385397429_Attempt_1_AC.java`](./385397429_Attempt_1_AC.java) |
+| 2 | 385397649 | Aug/03/2026 17:25UTC+5.5 | ✅ Accepted | 124 ms | 1300 KB | PyPy 3-64 | [`385397649_Attempt_2_AC.py`](./385397649_Attempt_2_AC.py) |
