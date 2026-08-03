@@ -105,3 +105,4 @@ k.
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78088170 | 2026-08-03 11:13:48 | ❌ WA | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78088170_Attempt_1_WA.java`](./78088170_Attempt_1_WA.java) |
+| 2 | 78088204 | 2026-08-03 11:15:52 | ❌ AC | 0 ms | 0 KB | Python (CPython 3.13.7) | [`78088204_Attempt_2_AC.py`](./78088204_Attempt_2_AC.py) |
