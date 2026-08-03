@@ -92,3 +92,4 @@ N/A
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092289842 | 8/3/2026, 1:10:08 PM | ❌ Compile Error | N/A | N/A | Python | [`2092289842_Attempt_1_CE.py`](./2092289842_Attempt_1_CE.py) |
+| 2 | 2092290402 | 8/3/2026, 1:10:45 PM | ❌ Compile Error | N/A | N/A | Python | [`2092290402_Attempt_2_CE.py`](./2092290402_Attempt_2_CE.py) |
