@@ -106,3 +106,4 @@ N/A
 | 5 | 2092342627 | 8/3/2026, 2:07:28 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092342627_Attempt_5_RTE.py`](./2092342627_Attempt_5_RTE.py) |
 | 6 | 2092347520 | 8/3/2026, 2:11:52 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092347520_Attempt_6_RTE.py`](./2092347520_Attempt_6_RTE.py) |
 | 8 | 2092349237 | 8/3/2026, 2:13:23 PM | ✅ Accepted | 0 ms | 13 MB | Python | [`2092349237_Attempt_8_AC.py`](./2092349237_Attempt_8_AC.py) |
+| 9 | 2092350593 | 8/3/2026, 2:14:33 PM | ✅ Accepted | N/A | N/A | Java | [`2092350593_Attempt_9_AC.java`](./2092350593_Attempt_9_AC.java) |
