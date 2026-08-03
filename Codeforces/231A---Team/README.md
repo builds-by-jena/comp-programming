@@ -69,4 +69,5 @@ In the second sample the friends will only implement the second problem, as Vasy
 | 1 | 385397429 | Aug/03/2026 17:23UTC+5.5 | ✅ Accepted | 500 ms | 1000 KB | Java 21 | [`385397429_Attempt_1_AC.java`](./385397429_Attempt_1_AC.java) |
 | 2 | 385397649 | Aug/03/2026 17:25UTC+5.5 | ✅ Accepted | 124 ms | 1300 KB | PyPy 3-64 | [`385397649_Attempt_2_AC.py`](./385397649_Attempt_2_AC.py) |
 | 3 | 385397778 | Aug/03/2026 17:26UTC+5.5 | ❌ Runtime error on test 1 | 250 ms | 0 KB | Java 21 | [`385397778_Attempt_3_RTE.java`](./385397778_Attempt_3_RTE.java) |
-| 4 | 385397927 | Aug/03/2026 17:27UTC+5.5 | ✅ Accepted | 124 ms | 0 KB | C++20 (GCC 13-64) | [`385397927_Attempt_4_AC.cpp`](./385397927_Attempt_4_AC.cpp) |
+| 4 | 385397927 | Aug/03/2026 17:27UTC+5.5 | ✅ Accepted | 124 ms | 0 KB | C++20 (GCC 13-64) | [`385397927_Attempt_4_AC.cpp`](./385397927_Attempt_4_AC.cpp) |
+| 5 | 385398099 | Aug/03/2026 17:28UTC+5.5 | ❌ Runtime error on test 1 | 124 ms | 2700 KB | PyPy 3-64 | [`385398099_Attempt_5_RTE.py`](./385398099_Attempt_5_RTE.py) |
