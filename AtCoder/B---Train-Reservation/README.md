@@ -139,3 +139,4 @@ No
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78097679 | 2026-08-03 17:47:17 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78097679_Attempt_1_AC.java`](./78097679_Attempt_1_AC.java) |
+| 2 | 78097720 | 2026-08-03 17:48:57 | ❌ AC | 0 ms | 0 KB | C++ IOI-Style(GNU++20) (GCC 14.2.0) | [`78097720_Attempt_2_AC.cpp`](./78097720_Attempt_2_AC.cpp) |
