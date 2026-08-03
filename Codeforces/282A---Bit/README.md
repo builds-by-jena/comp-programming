@@ -68,4 +68,5 @@ X++
 ### 📊 Submission History
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 385398542 | Aug/03/2026 17:30UTC+5.5 | ✅ Accepted | 234 ms | 1100 KB | Java 21 | [`385398542_Attempt_1_AC.java`](./385398542_Attempt_1_AC.java) |
+| 1 | 385398542 | Aug/03/2026 17:30UTC+5.5 | ✅ Accepted | 234 ms | 1100 KB | Java 21 | [`385398542_Attempt_1_AC.java`](./385398542_Attempt_1_AC.java) |
+| 2 | 385398762 | Aug/03/2026 17:32UTC+5.5 | ✅ Accepted | 78 ms | 0 KB | PyPy 3-64 | [`385398762_Attempt_2_AC.py`](./385398762_Attempt_2_AC.py) |
