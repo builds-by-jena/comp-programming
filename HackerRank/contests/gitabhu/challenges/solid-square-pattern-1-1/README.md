@@ -61,4 +61,5 @@ Sample Output 0
 ### 📊 Submission History
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
-
+| 1 | 8/4/2026, 5:23:47 AM | ❌ Compile Error | C++ | [`hr_1785801221448_Attempt_1_CE.cpp`](./hr_1785801221448_Attempt_1_CE.cpp) |
+| 2 | 8/4/2026, 5:23:47 AM | ❌ Compile Error | C++ | [`hr_1785801221450_Attempt_2_CE.cpp`](./hr_1785801221450_Attempt_2_CE.cpp) |
