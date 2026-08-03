@@ -102,3 +102,4 @@ N/A
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092289287 | 8/3/2026, 1:09:29 PM | ✅ Accepted | 3 ms | 13.1 MB | Python | [`2092289287_Attempt_1_AC.py`](./2092289287_Attempt_1_AC.py) |
+| 2 | 2092289540 | 8/3/2026, 1:09:47 PM | ❌ Compile Error | N/A | N/A | Python | [`2092289540_Attempt_2_CE.py`](./2092289540_Attempt_2_CE.py) |
