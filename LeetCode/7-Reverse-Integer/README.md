@@ -88,3 +88,4 @@ N/A
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/3/2026, 6:01:56 PM | ✅ Accepted | Java | [`2092592663_Attempt_1_AC.java`](./2092592663_Attempt_1_AC.java) |
+| 2 | 8/3/2026, 6:02:06 PM | ❌ Runtime Error | Python | [`2092592809_Attempt_2_RTE.py`](./2092592809_Attempt_2_RTE.py) |
