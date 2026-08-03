@@ -72,4 +72,5 @@ X++
 | 2 | 385398762 | Aug/03/2026 17:32UTC+5.5 | ✅ Accepted | 78 ms | 0 KB | PyPy 3-64 | [`385398762_Attempt_2_AC.py`](./385398762_Attempt_2_AC.py) |
 | 3 | 385398959 | Aug/03/2026 17:33UTC+5.5 | ❌ Runtime error on test 1 | 156 ms | 0 KB | Java 21 | [`385398959_Attempt_3_RTE.java`](./385398959_Attempt_3_RTE.java) |
 | 4 | 385399109 | Aug/03/2026 17:35UTC+5.5 | ❌ Time limit exceeded on test 1 | 1000 ms | 0 KB | Java 21 | [`385399109_Attempt_4_TLE.java`](./385399109_Attempt_4_TLE.java) |
-| 5 | 385399180 | Aug/03/2026 17:35UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | PyPy 3-64 | [`385399180_Attempt_5_CE.py`](./385399180_Attempt_5_CE.py) |
+| 5 | 385399180 | Aug/03/2026 17:35UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | PyPy 3-64 | [`385399180_Attempt_5_CE.py`](./385399180_Attempt_5_CE.py) |
+| 6 | 385399305 | Aug/03/2026 17:36UTC+5.5 | ✅ Accepted | 46 ms | 100 KB | C++20 (GCC 13-64) | [`385399305_Attempt_6_AC.cpp`](./385399305_Attempt_6_AC.cpp) |
