@@ -324,3 +324,4 @@ _No sample test cases provided._
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78102064 | 2026-08-03 22:24:24 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78102064_Attempt_1_CE.java`](./78102064_Attempt_1_CE.java) |
+| 2 | 78102084 | 2026-08-03 22:26:59 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78102084_Attempt_2_CE.java`](./78102084_Attempt_2_CE.java) |
