@@ -103,3 +103,4 @@ N/A
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2092289287 | 8/3/2026, 1:09:29 PM | ✅ Accepted | 3 ms | 13.1 MB | Python | [`2092289287_Attempt_1_AC.py`](./2092289287_Attempt_1_AC.py) |
 | 2 | 2092289540 | 8/3/2026, 1:09:47 PM | ❌ Compile Error | N/A | N/A | Python | [`2092289540_Attempt_2_CE.py`](./2092289540_Attempt_2_CE.py) |
+| 3 | 2092294758 | 8/3/2026, 1:15:58 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092294758_Attempt_3_RTE.py`](./2092294758_Attempt_3_RTE.py) |
