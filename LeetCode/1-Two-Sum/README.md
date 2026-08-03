@@ -101,4 +101,4 @@ N/A
 ### 📊 Submission History
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 2092302874 | 8/3/2026, 1:25:41 PM | ✅ Accepted | 0 ms | 12.9 MB | Python | [`2092302874_Attempt_1_AC.py`](./2092302874_Attempt_1_AC.py) |
+| 1 | 2092303091 | 8/3/2026, 1:25:58 PM | ❌ Runtime Error | N/A | N/A | Python | [`2092303091_Attempt_1_RTE.py`](./2092303091_Attempt_1_RTE.py) |
