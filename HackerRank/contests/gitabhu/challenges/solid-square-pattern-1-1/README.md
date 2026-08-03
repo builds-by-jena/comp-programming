@@ -63,3 +63,5 @@ Sample Output 0
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 5:23:47 AM | ❌ Compile Error | C++ | [`hr_1785801221448_Attempt_1_CE.cpp`](./hr_1785801221448_Attempt_1_CE.cpp) |
 | 2 | 8/4/2026, 5:23:47 AM | ❌ Compile Error | C++ | [`hr_1785801221450_Attempt_2_CE.cpp`](./hr_1785801221450_Attempt_2_CE.cpp) |
+| 3 | 8/4/2026, 5:23:55 AM | ✅ Accepted | C++ | [`hr_1785801229884_Attempt_3_AC.cpp`](./hr_1785801229884_Attempt_3_AC.cpp) |
+| 4 | 8/4/2026, 5:23:55 AM | ✅ Accepted | C++ | [`hr_1785801229889_Attempt_4_AC.cpp`](./hr_1785801229889_Attempt_4_AC.cpp) |
