@@ -1,4 +1,4 @@
-# [Print-Squares]
+# [Print-Squares-Practice-Problem-in-Java]
 
 **Platform:** CodeChef
 **Limits:** N/A | N/A
@@ -7,11 +7,7 @@
 ---
 
 ### 📝 Problem Statement
-### Print Squares
-
-Write a program to output the squares (using multiplication) of numbers from 1 to 5 on separate lines.
-
-### Sample 1:
+Refer to problem description on CodeChef.
 
 ---
 
@@ -22,21 +18,7 @@ Write a program to output the squares (using multiplication) of numbers from 1 t
 ---
 
 ### 🧪 Sample Tests
-
-#### Example 1
-**Input:**
-```
-N/A (No Input Required)
-```
-**Output:**
-```
-1 - 1
-2 - 4
-3 - 9
-4 - 16
-5 - 25
-```
-
+_No sample test cases provided._
 
 
 
@@ -49,3 +31,4 @@ N/A (No Input Required)
 | 2 | 8/4/2026, 11:23:51 AM | ❌ Runtime Error | Java | [`cc_1785822826397_Attempt_2_RTE.java`](./cc_1785822826397_Attempt_2_RTE.java) |
 | 3 | 8/4/2026, 11:28:49 AM | ❌ Compile Error | Java | [`cc_1785822876380_Attempt_3_CE.java`](./cc_1785822876380_Attempt_3_CE.java) |
 | 4 | 8/4/2026, 11:28:49 AM | ✅ Accepted | Java | [`cc_1785823120771_Attempt_4_AC.java`](./cc_1785823120771_Attempt_4_AC.java) |
+| 5 | 8/4/2026, 11:31:57 AM | ✅ Accepted | Java | [`cc_1785823311605_Attempt_5_AC.java`](./cc_1785823311605_Attempt_5_AC.java) |
