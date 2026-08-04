@@ -50,3 +50,5 @@ N/A (No Input Required)
 | 3 | 8/4/2026, 11:28:49 AM | ❌ Compile Error | Java | [`cc_1785822876380_Attempt_3_CE.java`](./cc_1785822876380_Attempt_3_CE.java) |
 | 4 | 8/4/2026, 11:28:49 AM | ✅ Accepted | Java | [`cc_1785823120771_Attempt_4_AC.java`](./cc_1785823120771_Attempt_4_AC.java) |
 | 5 | 8/4/2026, 11:31:57 AM | ✅ Accepted | Java | [`cc_1785823311605_Attempt_5_AC.java`](./cc_1785823311605_Attempt_5_AC.java) |
+| 6 | 8/4/2026, 11:41:41 AM | ✅ Accepted | Java | [`cc_1785823462141_Attempt_6_AC.java`](./cc_1785823462141_Attempt_6_AC.java) |
+| 7 | 8/4/2026, 11:41:41 AM | ✅ Accepted | Java | [`cc_1785823894575_Attempt_7_AC.java`](./cc_1785823894575_Attempt_7_AC.java) |
