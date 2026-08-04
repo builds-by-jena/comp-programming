@@ -52,3 +52,4 @@ Each star should be separated by a single space.
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 5:53:48 AM | ❌ Compile Error | C++ | [`hr_attempt_1785803021945_Attempt_1_CE.cpp`](./hr_attempt_1785803021945_Attempt_1_CE.cpp) |
+| 1785803021946 | 8/4/2026, 5:54:07 AM | ✅ Accepted | C++ | [`hr_attempt_1785803040005_Attempt_1785803021946_AC.cpp`](./hr_attempt_1785803040005_Attempt_1785803021946_AC.cpp) |
