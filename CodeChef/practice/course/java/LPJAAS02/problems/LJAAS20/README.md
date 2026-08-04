@@ -1,4 +1,4 @@
-# [Print-Squares-Practice-Problem-in-Java]
+# [Print-Squares]
 
 **Platform:** CodeChef
 **Limits:** N/A | N/A
@@ -7,7 +7,11 @@
 ---
 
 ### 📝 Problem Statement
-Refer to problem description on CodeChef.
+### Print Squares
+
+Write a program to output the squares (using multiplication) of numbers from 1 to 5 on separate lines.
+
+### Sample 1:
 
 ---
 
@@ -18,7 +22,21 @@ Refer to problem description on CodeChef.
 ---
 
 ### 🧪 Sample Tests
-_No sample test cases provided._
+
+#### Example 1
+**Input:**
+```
+N/A (No Input Required)
+```
+**Output:**
+```
+1 - 1
+2 - 4
+3 - 9
+4 - 16
+5 - 25
+```
+
 
 
 
