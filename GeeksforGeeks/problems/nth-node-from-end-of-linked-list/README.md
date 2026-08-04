@@ -32,3 +32,5 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 1:15:31 PM | ✅ Accepted | C++ | [`gfg_1785829525583_Attempt_1_AC.cpp`](./gfg_1785829525583_Attempt_1_AC.cpp) |
+| 2 | 8/4/2026, 1:16:20 PM | ✅ Accepted | C++ | [`gfg_1785829559488_Attempt_2_AC.cpp`](./gfg_1785829559488_Attempt_2_AC.cpp) |
+| 3 | 8/4/2026, 1:16:20 PM | ❌ Compile Error | C++ | [`gfg_1785829574846_Attempt_3_CE.cpp`](./gfg_1785829574846_Attempt_3_CE.cpp) |
