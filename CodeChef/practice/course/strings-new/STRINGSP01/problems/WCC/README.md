@@ -100,4 +100,5 @@ NNDNNDDDNNDNDN
 ### 📊 Submission History
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
-
+| 1 | 8/4/2026, 11:47:21 AM | ✅ Accepted | C++ | [`cc_1785824215731_Attempt_1_AC.cpp`](./cc_1785824215731_Attempt_1_AC.cpp) |
+| 2 | 8/4/2026, 11:47:21 AM | ❌ Compile Error | C++ | [`cc_1785824228711_Attempt_2_CE.cpp`](./cc_1785824228711_Attempt_2_CE.cpp) |
