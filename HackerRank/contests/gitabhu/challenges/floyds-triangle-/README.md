@@ -53,3 +53,4 @@ Each number should be separated by a single space.
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 6:02:54 AM | ❌ Compile Error | C++ | [`hr_1785803568237_Attempt_1_CE.cpp`](./hr_1785803568237_Attempt_1_CE.cpp) |
+| 2 | 8/4/2026, 6:03:14 AM | ✅ Accepted | C++ | [`hr_1785803587540_Attempt_2_AC.cpp`](./hr_1785803587540_Attempt_2_AC.cpp) |
