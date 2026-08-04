@@ -28,3 +28,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 11:22:36 AM | ❌ Compile Error | Java | [`cc_1785822749715_Attempt_1_CE.java`](./cc_1785822749715_Attempt_1_CE.java) |
+| 2 | 8/4/2026, 11:23:51 AM | ❌ Runtime Error | Java | [`cc_1785822826397_Attempt_2_RTE.java`](./cc_1785822826397_Attempt_2_RTE.java) |
