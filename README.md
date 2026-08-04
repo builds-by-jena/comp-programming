@@ -4,7 +4,7 @@ Automated syncing across platforms powered by **CP-GitSync**.
 
 ## 📊 Performance Summary
 - **Total Unique Problems Solved:** 16
-- **Total Code Solution Files Tracked:** 68
+- **Total Code Solution Files Tracked:** 69
 
 ### 📁 Platform Directory
 | Platform | Folder Path | Unique Solved / Total Files Tracked |
@@ -13,7 +13,7 @@ Automated syncing across platforms powered by **CP-GitSync**.
 | **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | 0 / 0 |
 | **LeetCode** | [`/LeetCode`](./LeetCode) | 2 / 10 |
 | **Codeforces** | [`/Codeforces`](./Codeforces) | 2 / 12 |
-| **CodeChef** | [`/CodeChef`](./CodeChef) | 0 / 2 |
+| **CodeChef** | [`/CodeChef`](./CodeChef) | 0 / 3 |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | 9 / 29 |
 | **HackerEarth** | [`/HackerEarth`](./HackerEarth) | 0 / 0 |
 | **AtCoder** | [`/AtCoder`](./AtCoder) | 3 / 15 |
