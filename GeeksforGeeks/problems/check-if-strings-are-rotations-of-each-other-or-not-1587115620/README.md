@@ -34,3 +34,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 1:23:37 PM | ❌ Wrong Answer | C++ | [`gfg_1785830012239_Attempt_1_WA.cpp`](./gfg_1785830012239_Attempt_1_WA.cpp) |
+| 2 | 8/4/2026, 1:24:03 PM | ✅ Accepted | C++ | [`gfg_1785830038189_Attempt_2_AC.cpp`](./gfg_1785830038189_Attempt_2_AC.cpp) |
