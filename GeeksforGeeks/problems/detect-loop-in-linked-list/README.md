@@ -32,3 +32,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 1:12:05 PM | ✅ Accepted | Java | [`gfg_1785829319889_Attempt_1_AC.java`](./gfg_1785829319889_Attempt_1_AC.java) |
+| 2 | 8/4/2026, 1:12:57 PM | ❌ Compile Error | Java | [`gfg_1785829373239_Attempt_2_CE.java`](./gfg_1785829373239_Attempt_2_CE.java) |
