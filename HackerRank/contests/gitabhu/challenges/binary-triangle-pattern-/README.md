@@ -18,28 +18,11 @@ Print 0 if (row + column) is odd.
 
 Each value should be separated by a single space.
 
-Input Format
-
-Constraints
-
-Output Format
-
-Sample Input 0
-
-4
-
-Sample Output 0
-
-1
-0 1
-1 0 1
-0 1 0 1
-
 ---
 
 ### 📥 Input / Output Specification
-**Input:** Standard Input
-**Output:** Standard Output
+**Input:** * A single integer N.
+**Output:** * Print a binary triangle consisting of N rows following the given rule.
 
 ---
 
@@ -59,6 +42,10 @@ Sample Output 0
 ```
 
 
+--- 
+### 💡 Note
+**Constraints:**
+* 1 ≤ N ≤ 100
 
 
 ---
@@ -68,3 +55,4 @@ Sample Output 0
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/4/2026, 5:37:22 AM | ❌ Compile Error | C++ | [`hr_attempt_1785802036290_Attempt_1_CE.cpp`](./hr_attempt_1785802036290_Attempt_1_CE.cpp) |
 | 1785802036291 | 8/4/2026, 5:37:40 AM | ✅ Accepted | C++ | [`hr_attempt_1785802049863_Attempt_1785802036291_AC.cpp`](./hr_attempt_1785802049863_Attempt_1785802036291_AC.cpp) |
+| 1785802049864 | 8/4/2026, 5:40:51 AM | ✅ Accepted | C++ | [`hr_attempt_1785802242963_Attempt_1785802049864_AC.cpp`](./hr_attempt_1785802242963_Attempt_1785802049864_AC.cpp) |
