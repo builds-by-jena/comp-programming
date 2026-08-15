@@ -33,3 +33,4 @@ _No sample test cases provided._
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/15/2026, 6:40:07 AM | ❌ Runtime Error | Python | [`gfg_1786756204612_Attempt_1_RTE.py`](./gfg_1786756204612_Attempt_1_RTE.py) |
 | 2 | 8/15/2026, 6:40:27 AM | ❌ Runtime Error | Python | [`gfg_1786756224007_Attempt_2_RTE.py`](./gfg_1786756224007_Attempt_2_RTE.py) |
+| 3 | 8/15/2026, 6:40:41 AM | ✅ Accepted | Python | [`gfg_1786756235976_Attempt_3_AC.py`](./gfg_1786756235976_Attempt_3_AC.py) |
